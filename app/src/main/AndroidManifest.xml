@@ -18,6 +18,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".activities.Edit" >
+        </activity>
         <activity
             android:name=".activities.Add"
             android:label="@string/addACoffeeLbl"
